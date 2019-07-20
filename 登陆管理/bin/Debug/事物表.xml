@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Users>
+  <manager no="1234">
+    <notice>dfasdf</notice>
+  </manager>
+  <log>
+    <student>
+      <sno>16222039</sno>
+      <leavetime>2018/3/9 0:00:00</leavetime>
+      <arrivetime>2018/3/9 0:00:00</arrivetime>
+      <state>已销假</state>
+    </student>
+    <student>
+      <sno>16222039</sno>
+      <leavetime>2018/3/21 0:00:00</leavetime>
+      <arrivetime>2018/3/29 0:00:00</arrivetime>
+      <state>已销假</state>
+    </student>
+  </log>
+</Users>

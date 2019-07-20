@@ -1,0 +1,127 @@
+F:\封帅虎\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe
+F:\封帅虎\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.pdb
+F:\封帅虎\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.xml
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\ResolveAssemblyReference.cache
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.csproj.GenerateResource.Cache
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.exe
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.pdb
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.exe
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe.config
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.pdb
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.dll
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.xml
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.StudentManager.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFDetailedInfo.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFDormSch.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFFix.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFHld.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFHoliday.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.Properties.Resources.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFLogin.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFManager.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFMessage.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.UpdataPwd.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFPop.resources
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.csproj.GenerateResource.Cache
+C:\Users\YangFan\Desktop\实训\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.pdb
+H:\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe.config
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.exe
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe.config
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.exe
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.pdb
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.xml
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.csproj.GenerateResource.Cache
+F:\封帅虎\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe.config
+H:\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe
+H:\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.pdb
+H:\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.xml
+H:\学生宿舍管理系统\登陆管理\obj\Debug\ResolveAssemblyReference.cache
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.StudentManager.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFDetailedInfo.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFDormSch.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFFix.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFHld.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFHoliday.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.Properties.Resources.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFLogin.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFManager.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFMessage.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.UpdataPwd.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFPop.resources
+H:\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe.config
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.exe
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.pdb
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.pdb
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.xml
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.StudentManager.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFDetailedInfo.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFDormSch.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFFix.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFHld.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFHoliday.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFLogin.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFManager.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFMessage.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFStudentTable.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.UpdataPwd.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.WFPop.resources
+C:\Documents and Settings\Administrator\桌面\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.csproj.GenerateResource.Cache
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.StudentManager.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFDetailedInfo.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFDormSch.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFFix.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFHld.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFHoliday.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.Properties.Resources.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFLogin.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFManager.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFMessage.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFStudentTable.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.UpdataPwd.resources
+F:\封帅虎\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFPop.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.StudentManager.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFDetailedInfo.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFDormSch.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFFix.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFHld.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFHoliday.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.Properties.Resources.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFLogin.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFManager.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFMessage.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFStudentTable.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.UpdataPwd.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFPop.resources
+C:\Users\封帅虎\Desktop\dotnet代码\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFLog.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe.config
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.exe
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\登陆管理.pdb
+E:\20190508\21组\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.exe
+E:\20190508\21组\学生宿舍管理系统\登陆管理\bin\Debug\登陆管理.pdb
+E:\20190508\21组\学生宿舍管理系统\登陆管理\bin\Debug\CSkin.xml
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\ResolveAssemblyReference.cache
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.StudentManager.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFDetailedInfo.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFDormSch.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFFix.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFHld.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFHoliday.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.Properties.Resources.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFLog.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFLogin.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFManager.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFMessage.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFStudentTable.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.UpdataPwd.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.WFPop.resources
+E:\20190508\21组\学生宿舍管理系统\登陆管理\obj\Debug\宿舍管理系统.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="登陆管理.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="登陆管理_cn_com_webxml_webservice_WeatherWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webxml.com.cn/WebServices/WeatherWebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

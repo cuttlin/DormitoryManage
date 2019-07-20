@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://www.webxml.com.cn/WebServices/WeatherWebService.asmx?wsdl" docRef="http://www.webxml.com.cn/WebServices/WeatherWebService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://www.webxml.com.cn/WebServices/WeatherWebService.asmx" xmlns:q1="http://WebXml.com.cn/" binding="q1:WeatherWebServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://www.webxml.com.cn/WebServices/WeatherWebService.asmx" xmlns:q2="http://WebXml.com.cn/" binding="q2:WeatherWebServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
