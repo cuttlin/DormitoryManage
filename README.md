@@ -39,6 +39,6 @@ DormitoryManage是一款应用于学校的宿舍管理系统。
 
 [![hmmfrm.png](https://i.loli.net/2019/07/22/5d3514fda20c074107.png)](https://i.loli.net/2019/07/22/5d3514fda20c074107.png)
 
-[![hminfo.png](https://i.loli.net/2019/07/22/5d351513dbabc27636.png)](https://i.loli.net/2019/07/22/5d351513dbabc27636.png)
+[![hminfo.png](https://i.loli.net/2019/07/22/5d351bcad217f40356.png)](https://i.loli.net/2019/07/22/5d351bcad217f40356.png)
 
 [![hmoutfrm.png](https://i.loli.net/2019/07/22/5d351534db1f977256.png)](https://i.loli.net/2019/07/22/5d351534db1f977256.png)
